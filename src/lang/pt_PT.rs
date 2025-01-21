@@ -185,7 +185,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("Relayed and encrypted connection", "Ligação via relay e encriptada"),
         ("Direct and unencrypted connection", "Ligação direta e não encriptada"),
         ("Relayed and unencrypted connection", "Ligação via relay e não encriptada"),
-        ("Enter Remote ID", "Introduza o ID Remoto"),
+        ("Enter Remote ID", "Introduza o ID do HushDesk"),
         ("Enter your password", "Introduza a sua palavra-chave"),
         ("Logging in...", "A efectuar Login..."),
         ("Enable RDP session sharing", "Activar partilha de sessão RDP"),
